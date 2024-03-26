@@ -36,5 +36,7 @@ Python (pandas, numpy)
 References:
 
 Sarkar, S., Gurran, N., Shrivastava, R., & Chapple, K. (2024). Spatial segregation and neighbourhood change (No. jm95p). Center for Open Science.
+
 Owens, A. (2019). Building inequality: Housing segregation and income segregation. Sociological Science, 6, 497.
+
 Barros, F. C., & Feitosa, F. C. (2018). Uneven geographies: Exploring the sensitivity of spatial indices of residential segregation. Social Science Research, 90, 366-380.
