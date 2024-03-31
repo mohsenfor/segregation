@@ -7,7 +7,9 @@ Description:
 This project analyzes housing segregation patterns in three major cities of Iran. It merges survey data on housing and population for three major iranian cities (Tehran, Isfahan, Mashhad) to calculate Shannon's and Theil's entropy for three categories:
 
 Single-family vs. Multi-family housing type
+
 Rental vs. Owned housing type
+
 Native vs. Immigrant dwellers
 
 Using decomposed entropy of information, in the final step it was calculated how much the entropy of neighborhoods are due to the entropies of bigger scales such as districts and cities but not neighborhoods themselves. 
